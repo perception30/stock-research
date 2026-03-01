@@ -1,0 +1,14 @@
+title: Stock Research
+description: Data-driven stock analysis using technical indicators, fundamentals, and political signals
+baseurl: "/stock-research"
+url: "https://perception30.github.io"
+
+theme: minima
+
+permalink: /:year/:month/:day/:title/
+
+minima:
+  skin: dark
+
+header_pages:
+  - about.md
