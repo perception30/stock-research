@@ -10,5 +10,7 @@ permalink: /:year/:month/:day/:title/
 minima:
   skin: dark
 
+show_excerpts: true
+
 header_pages:
   - about.md
